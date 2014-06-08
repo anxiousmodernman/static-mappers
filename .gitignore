@@ -1,0 +1,5 @@
+*.csv*
+.idea
+*sublime*
+*.pyc
+config.py
